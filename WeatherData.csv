@@ -1294,7 +1294,7 @@ UK,Tmax,2017,August,18.5
 UK,Tmax,2017,September,16.1
 UK,Tmax,2017,October,14.3
 UK,Tmax,2017,November,8.8
-UK,Tmax,2017,December,7.85
+UK,Tmax,2017,December,N/A
 UK,Tmin,1910,Jan,-0.3
 UK,Tmin,1910,Feb,0.9
 UK,Tmin,1910,March,1.5
@@ -2590,7 +2590,7 @@ UK,Tmin,2017,August,10.6
 UK,Tmin,2017,September,9.0
 UK,Tmin,2017,October,8.2
 UK,Tmin,2017,November,2.8
-UK,Tmin,2017,December,2.16
+UK,Tmin,2017,December,N/A
 UK,Tmean,1910,Jan,2.6
 UK,Tmean,1910,Feb,3.9
 UK,Tmean,1910,March,5.4
@@ -3886,7 +3886,7 @@ UK,Tmean,2017,August,14.5
 UK,Tmean,2017,September,12.6
 UK,Tmean,2017,October,11.3
 UK,Tmean,2017,November,5.8
-UK,Tmean,2017,December,5.00
+UK,Tmean,2017,December,N/A
 UK,Sunshine,1929,Jan,39.5
 UK,Sunshine,1929,Feb,51.6
 UK,Sunshine,1929,March,169.5
@@ -4954,7 +4954,7 @@ UK,Sunshine,2017,August,159.9
 UK,Sunshine,2017,September,109.9
 UK,Sunshine,2017,October,73.6
 UK,Sunshine,2017,November,69.2
-UK,Sunshine,2017,December,152.3
+UK,Sunshine,2017,December,N/A
 UK,Rainfall,1910,Jan,111.4
 UK,Rainfall,1910,Feb,126.1
 UK,Rainfall,1910,March,49.9
@@ -6250,7 +6250,7 @@ UK,Rainfall,2017,August,104.4
 UK,Rainfall,2017,September,119.1
 UK,Rainfall,2017,October,100.3
 UK,Rainfall,2017,November,107.9
-UK,Rainfall,2017,December,247.3
+UK,Rainfall,2017,December,N/A
 England,Tmax,1910,Jan,6.0
 England,Tmax,1910,Feb,7.6
 England,Tmax,1910,March,9.8
@@ -7546,7 +7546,7 @@ England,Tmax,2017,August,20.0
 England,Tmax,2017,September,17.3
 England,Tmax,2017,October,15.4
 England,Tmax,2017,November,10.0
-England,Tmax,2017,December,8.12
+England,Tmax,2017,December,N/A
 England,Tmin,1910,Jan,0.3
 England,Tmin,1910,Feb,1.5
 England,Tmin,1910,March,1.5
@@ -8842,7 +8842,7 @@ England,Tmin,2017,August,11.3
 England,Tmin,2017,September,9.6
 England,Tmin,2017,October,9.0
 England,Tmin,2017,November,3.3
-England,Tmin,2017,December,2.28
+England,Tmin,2017,December,N/A
 England,Tmean,1910,Jan,3.2
 England,Tmean,1910,Feb,4.6
 England,Tmean,1910,March,5.7
@@ -10138,7 +10138,7 @@ England,Tmean,2017,August,15.6
 England,Tmean,2017,September,13.4
 England,Tmean,2017,October,12.2
 England,Tmean,2017,November,6.6
-England,Tmean,2017,December,5.20
+England,Tmean,2017,December,N/A
 England,Sunshine,1929,Jan,38.2
 England,Sunshine,1929,Feb,50.3
 England,Sunshine,1929,March,172.8
@@ -11206,7 +11206,7 @@ England,Sunshine,2017,August,181.9
 England,Sunshine,2017,September,119.9
 England,Sunshine,2017,October,86.8
 England,Sunshine,2017,November,80.9
-England,Sunshine,2017,December,170.0
+England,Sunshine,2017,December,N/A
 England,Rainfall,1910,Jan,82.9
 England,Rainfall,1910,Feb,98.5
 England,Rainfall,1910,March,26.8
@@ -12502,7 +12502,7 @@ England,Rainfall,2017,August,74.8
 England,Rainfall,2017,September,94.6
 England,Rainfall,2017,October,53.7
 England,Rainfall,2017,November,69.0
-England,Rainfall,2017,December,161.4
+England,Rainfall,2017,December,N/A
 Wales,Tmax,1910,Jan,6.1
 Wales,Tmax,1910,Feb,7.2
 Wales,Tmax,1910,March,8.9
@@ -13798,7 +13798,7 @@ Wales,Tmax,2017,August,18.1
 Wales,Tmax,2017,September,16.0
 Wales,Tmax,2017,October,14.3
 Wales,Tmax,2017,November,9.8
-Wales,Tmax,2017,December,8.08
+Wales,Tmax,2017,December,N/A
 Wales,Tmin,1910,Jan,1.2
 Wales,Tmin,1910,Feb,2.5
 Wales,Tmin,1910,March,2.4
@@ -15094,7 +15094,7 @@ Wales,Tmin,2017,August,10.9
 Wales,Tmin,2017,September,9.3
 Wales,Tmin,2017,October,8.8
 Wales,Tmin,2017,November,3.7
-Wales,Tmin,2017,December,2.84
+Wales,Tmin,2017,December,N/A
 Wales,Tmean,1910,Jan,3.9
 Wales,Tmean,1910,Feb,5.0
 Wales,Tmean,1910,March,5.8
@@ -16390,7 +16390,7 @@ Wales,Tmean,2017,August,14.5
 Wales,Tmean,2017,September,12.6
 Wales,Tmean,2017,October,11.6
 Wales,Tmean,2017,November,6.8
-Wales,Tmean,2017,December,5.46
+Wales,Tmean,2017,December,N/A
 Wales,Sunshine,1929,Jan,50.5
 Wales,Sunshine,1929,Feb,58.0
 Wales,Sunshine,1929,March,209.4
@@ -17458,7 +17458,7 @@ Wales,Sunshine,2017,August,153.9
 Wales,Sunshine,2017,September,102.2
 Wales,Sunshine,2017,October,69.1
 Wales,Sunshine,2017,November,55.1
-Wales,Sunshine,2017,December,134.6
+Wales,Sunshine,2017,December,N/A
 Wales,Rainfall,1910,Jan,146.2
 Wales,Rainfall,1910,Feb,173.6
 Wales,Rainfall,1910,March,53.3
@@ -18754,7 +18754,7 @@ Wales,Rainfall,2017,August,123.0
 Wales,Rainfall,2017,September,181.5
 Wales,Rainfall,2017,October,103.5
 Wales,Rainfall,2017,November,157.0
-Wales,Rainfall,2017,December,302.0
+Wales,Rainfall,2017,December,N/A
 Scotland,Tmax,1910,Jan,4.1
 Scotland,Tmax,1910,Feb,5.1
 Scotland,Tmax,1910,March,7.9
@@ -20050,7 +20050,7 @@ Scotland,Tmax,2017,August,16.4
 Scotland,Tmax,2017,September,14.3
 Scotland,Tmax,2017,October,12.5
 Scotland,Tmax,2017,November,6.7
-Scotland,Tmax,2017,December,7.22
+Scotland,Tmax,2017,December,N/A
 Scotland,Tmin,1910,Jan,-1.9
 Scotland,Tmin,1910,Feb,-0.6
 Scotland,Tmin,1910,March,1.3
@@ -21346,7 +21346,7 @@ Scotland,Tmin,2017,August,9.4
 Scotland,Tmin,2017,September,8.2
 Scotland,Tmin,2017,October,6.8
 Scotland,Tmin,2017,November,1.5
-Scotland,Tmin,2017,December,1.63
+Scotland,Tmin,2017,December,N/A
 Scotland,Tmean,1910,Jan,1.2
 Scotland,Tmean,1910,Feb,2.4
 Scotland,Tmean,1910,March,4.8
@@ -22642,7 +22642,7 @@ Scotland,Tmean,2017,August,12.9
 Scotland,Tmean,2017,September,11.2
 Scotland,Tmean,2017,October,9.7
 Scotland,Tmean,2017,November,4.1
-Scotland,Tmean,2017,December,4.42
+Scotland,Tmean,2017,December,N/A
 Scotland,Sunshine,1929,Jan,39.0
 Scotland,Sunshine,1929,Feb,54.8
 Scotland,Sunshine,1929,March,153.0
@@ -23710,7 +23710,7 @@ Scotland,Sunshine,2017,August,130.5
 Scotland,Sunshine,2017,September,95.4
 Scotland,Sunshine,2017,October,56.5
 Scotland,Sunshine,2017,November,55.6
-Scotland,Sunshine,2017,December,131.6
+Scotland,Sunshine,2017,December,N/A
 Scotland,Rainfall,1910,Jan,152.8
 Scotland,Rainfall,1910,Feb,153.4
 Scotland,Rainfall,1910,March,87.5
@@ -25006,4 +25006,4 @@ Scotland,Rainfall,2017,August,145.1
 Scotland,Rainfall,2017,September,138.5
 Scotland,Rainfall,2017,October,175.1
 Scotland,Rainfall,2017,November,160.0
-Scotland,Rainfall,2017,December,381.9
+Scotland,Rainfall,2017,December,N/A
