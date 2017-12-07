@@ -134,11 +134,14 @@ public class HtmlParser {
 				dataObject.setWeather_param(fileName[2]); //Get weather @param using file title
 
 				while ((line = bufferedReader.readLine()) != null) {
-					String[] values = line.split(" ");
+					line = line.replaceAll("\\s{5,}"," N/A ").trim();
+					line = line.replaceAll("\\s+",",");
+					
+					String[] values = line.split(",");
 					dataObject.setYear(values[0]);
 
 					for (int i = 1; i < values.length; i++) {
-						if (!values[i].equalsIgnoreCase("")) {
+						if (!values[i].equalsIgnoreCase(",")) {
 							tempValues.add(values[i]);
 						}
 					}
